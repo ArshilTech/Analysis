@@ -3,32 +3,33 @@
 > **A Data Analytics Hackathon Project**  
 > **Team: CODEVATIVE**
 
-An interactive, data-driven web platform that analyzes **India’s Import–Export (EXIM) trends** for **critical minerals** — **Copper, Lithium, and Graphite** — and provides **insights & forecasts** to support strategic decision-making.
+An interactive, data-driven web platform that analyzes **India’s Import–Export (EXIM) trends** for **critical minerals** — **Copper, Lithium, and Graphite** — and provides **insights and forecasts** to support strategic decision-making for policy and industry.
 
-🔗 **Live Website:**  
-https://arshiltech.github.io/Analysis/
+🔗 **Live Project Website**  
+👉 https://arshiltech.github.io/Analysis/
 
 ---
 
 ## 📌 Problem Statement
 
-India is highly dependent on imports for critical minerals essential to:
-- Renewable energy
+Critical minerals play a vital role in:
+- Renewable energy systems
 - Electric vehicles (EVs)
-- Electronics & infrastructure
+- Electronics and infrastructure
 - Defense and advanced manufacturing
 
-This project aims to **analyze historical EXIM data**, identify **trade imbalances**, and **forecast future trends** to support policy planning and industrial strategy.
+India currently relies heavily on **imports** for these minerals, leading to **trade imbalances and supply chain risks**.  
+This project aims to analyze historical EXIM data, identify trends, and forecast future demand to support **data-driven policy and industrial planning**.
 
 ---
 
 ## 🎯 Objectives
 
-- Analyze **7+ years of EXIM data** for critical minerals
-- Quantify **import dependency & trade deficits**
+- Analyze **7+ years of India’s EXIM data**
+- Measure **import dependency and trade deficits**
 - Visualize trends using interactive dashboards
-- Forecast future import/export patterns using statistical models
-- Provide **actionable strategic insights** for India
+- Forecast future import/export patterns
+- Deliver **actionable strategic insights**
 
 ---
 
@@ -42,29 +43,31 @@ This project aims to **analyze historical EXIM data**, identify **trade imbalanc
 
 ## 🛠️ Tech Stack
 
-### Frontend
-- **HTML5**
-- **CSS3**
-- **JavaScript (ES6+)**
+### 🌐 Frontend
+- HTML5  
+- CSS3  
+- JavaScript (ES6+)
 
-### Data & Analysis
-- **Python (Pandas, NumPy, Matplotlib, Statsmodels)**
-- **ARIMA Forecasting Models**
+### 📊 Data Analytics & Forecasting
+- Python  
+- Pandas, NumPy  
+- Matplotlib  
+- Statsmodels (ARIMA)
 
-### Deployment
-- **GitHub Pages**
+### 🚀 Deployment
+- GitHub Pages
 
 ---
 
 ## 📊 Key Features
 
-- 📈 **Interactive EXIM Dashboard**
-- 🔍 Filter by:
-  - Mineral
+- 📈 Interactive EXIM dashboard
+- 🔍 Filters by:
+  - Mineral type
   - Import / Export
 - 📉 Trade deficit & dependency analysis
-- 🔮 **Forecasting with ARIMA**
-- 📌 Strategic recommendations
+- 🔮 Time-series forecasting using ARIMA
+- 📌 Strategic insights & recommendations
 - 🎨 Clean, modern, hackathon-ready UI
 
 ---
@@ -76,7 +79,7 @@ This project aims to **analyze historical EXIM data**, identify **trade imbalanc
    - Ministry of Commerce & Industry
 
 2. **Data Preprocessing**
-   - Cleaning & aggregation
+   - Data cleaning & aggregation
    - Time-series structuring
 
 3. **Exploratory Data Analysis**
@@ -84,21 +87,24 @@ This project aims to **analyze historical EXIM data**, identify **trade imbalanc
    - Import vs Export comparison
 
 4. **Forecasting**
-   - ARIMA models
-   - Evaluation using:
+   - ARIMA modeling
+   - Performance evaluation using:
      - MAE
      - MAPE
      - RMSE
 
 5. **Insights & Recommendations**
-   - Policy and industry-level suggestions
+   - Policy-level strategies
+   - Industry-level actions
 
 ---
 
-## 📸 Project Preview
+## 👨‍💻 Team CODEVATIVE
 
-> 🌐 Visit the live website to explore dashboards and forecasts:  
-**https://arshiltech.github.io/Analysis/**
-
-
-# Open index.html in your browser
+| Name | Role |
+|-----|-----|
+| **Arshil Masood** | Team Leader • Frontend Developer |
+| **Kamran Rizvi** | Data Analytics |
+| **Pranav Mishra** | Data Analytics • Backend Developer |
+| **Ammar Khan** | Backend Developer |
+| **Abdullah Ansari** | Frontend Developer |
